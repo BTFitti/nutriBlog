@@ -1,0 +1,29 @@
+*{
+    margin: 0 auto;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    max-width: 450px;
+    height: 240px;
+    border-radius: 9px;
+    margin: 8px 0;
+}
+#app{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    max-width: 450px;
+}
+ul li{
+    list-style: none;
+    margin-bottom: 24px;
+}
+strong{
+    font-size: 30px;
+    font-style: italic;
+}
+a{
+    font-size: 24px;
+}
